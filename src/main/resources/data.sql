@@ -1,0 +1,15 @@
+insert into customer (id, name, password, email) values (1, 'Denis', '123qwer', 'denis@mail.com');
+insert into customer (id, name, password, email) values (2, 'Misha', '54y45t', 'misha@mail.com');
+insert into customer (id, name, password, email) values (3, 'Alice', 't45tgt', 'alice@mail.com');
+insert into customer (id, name, password, email) values (4, 'Nastya', '54t4gtr', 'nastya@mail.com');
+insert into customer (id, name, password, email) values (5, 'Ben', '4r43r332w', 'ben@mail.com');
+insert into customer (id, name, password, email) values (6, 'Rob', 'gffgj76', 'rob@mail.com');
+insert into customer (id, name, password, email) values (7, 'Teon', '4fdfhjhiu', 'teon@mail.com');
+insert into customer (id, name, password, email) values (8, 'Robert', 'stgerg4e', 'robert@mail.com');
+insert into customer (id, name, password, email) values (9, 'Richard', 'qewfgjuu', 'richard@mail.com');
+insert into customer (id, name, password, email) values (10, 'George', '4r4gthbng', 'george@mail.com');
+insert into customer (id, name, password, email) values (11, 'Hanna', 'drtt45t', 'hanna@mail.com');
+insert into customer (id, name, password, email) values (12, 'Fiona', 'e5tgfvy', 'fiona@mail.com');
+insert into customer (id, name, password, email) values (13, 'Wiki', 'gkjuikiu', 'wiki@mail.com');
+insert into customer (id, name, password, email) values (14, 'Max', 'xcvfggd', 'max@mail.com');
+insert into customer (id, name, password, email) values (15, 'Yurii', '76u67ut', 'yurii@mail.com');
